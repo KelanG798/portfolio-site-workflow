@@ -1,0 +1,12 @@
+# Local editor and system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+node_modules/
+qa-output/

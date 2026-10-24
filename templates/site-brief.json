@@ -1,0 +1,37 @@
+{
+  "site_goal": null,
+  "audience": null,
+  "visitor_action": null,
+  "identity": {
+    "display_name": null,
+    "intro": null,
+    "public_contacts": []
+  },
+  "existing_site": null,
+  "delivery": {
+    "format": null,
+    "languages": []
+  },
+  "style": {
+    "preferences": [],
+    "references": [],
+    "motion": null,
+    "three_d": null
+  },
+  "projects": [
+    {
+      "id": null,
+      "title": null,
+      "problem": null,
+      "audience": null,
+      "solution": null,
+      "personal_contribution": [],
+      "stage": null,
+      "evidence": [],
+      "media": [],
+      "next_step": null
+    }
+  ],
+  "constraints": [],
+  "notes": "Optional brief: omit unknown fields. Never invent evidence or completed results. Media may be empty."
+}

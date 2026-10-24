@@ -1,0 +1,6 @@
+interface:
+  display_name: "Portfolio Site Workflow"
+  short_description: "Build distinctive portfolios from real project materials"
+  default_prompt: "Use $portfolio-site-workflow to turn my project materials into a personal website, verify it on phone and desktop, and explain how I can update it."
+policy:
+  allow_implicit_invocation: true
